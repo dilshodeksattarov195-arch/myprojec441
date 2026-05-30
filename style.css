@@ -1,0 +1,7 @@
+body { background: #543e81; margin: 0; font-family: sans-serif; }
+.secure-terminal { padding: 32px; display: flex; }
+.block-sms-0 { color: #b45091; font-size: 14px; margin-bottom: 5px; }
+.block-search-1 { color: #b87e6b; font-size: 17px; margin-bottom: 5px; }
+.block-search-2 { color: #2bc60; font-size: 19px; margin-bottom: 5px; }
+.block-cluster-3 { color: #a10273; font-size: 17px; margin-bottom: 5px; }
+.block-cache-4 { color: #7e3178; font-size: 13px; margin-bottom: 5px; }
